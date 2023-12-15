@@ -17,4 +17,4 @@ Welcome to the Ernest Hemingway Text Generator, a decoder-only transformer model
 
 ### Demo
 
-![](https://github.com/hemingway-text-generator/assets/demo.gif)
+![](assets/demo.gif)
